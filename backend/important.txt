@@ -1,0 +1,3 @@
+
+goto node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol
+and change line 36 and 40 from type private to type internal for the contract to deploy successfully
